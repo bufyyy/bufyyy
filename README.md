@@ -45,7 +45,7 @@ I'm a **Senior Computer Engineering Student** at Istanbul Commerce University, p
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bufyyy&show_icons=true&theme=tokyonight&hide_border=true" alt="Bugra's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bufyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bufyyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d0ff&icon_color=00d0ff" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bufyyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d0ff" height="180" alt="Top Langs" />
+</div>
