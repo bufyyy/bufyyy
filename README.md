@@ -46,6 +46,5 @@ I'm a **Senior Computer Engineering Student** at Istanbul Commerce University, p
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bufyyy&show_icons=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bufyyy&layout=compact" height="180" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bufyyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
